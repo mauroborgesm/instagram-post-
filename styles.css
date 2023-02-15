@@ -1,0 +1,41 @@
+.post-header-left {
+    display: flex;
+    
+}
+.post-header-left i {
+    margin-right: 5px;
+}
+
+.post-header-left-info i {
+    display: flex;
+    margin-left: 500px;
+    margin-top: -35px;
+    
+}
+
+.post-header-left-info p {
+    margin-top: -5px;
+}
+
+.post {
+    margin: auto;
+}
+
+.comments {
+  text-align: justify;  
+}
+
+.post-img {
+    display: flex;
+    justify-content: center;
+}
+
+.fa-bookmark{
+    display: flex;
+    margin-left: 550px;
+    margin-top: -16px;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+  }
